@@ -8,7 +8,7 @@
 | 2   | Nguyễn Tiến Đạt        | 2A202601387 |    đề xuất candidate,phân tích candidate                |
 | 3   | Ngô Tuấn Hưng      | 2A202601409 |        đề xuất candidate,phân tích candidate            |
 | 4   | Trần Xuân Lộc    | 2A202601671 |         đề xuất candidate,phân tích candidate           |
-| 5   | Lại Duy Đông      | 2A202601913 |     Thuyết trình               |
+| 5   | Lại Duy Đông      | 2A202601913 |     Thuyết trình,đề xuất candidate,phân tích candidate               |
 
 
 |  # | Người đưa ra  | Candidate problem                                                                            | Người gặp vấn đề                         | Điểm nghẽn                                                                                                                             | Cảm nhận nhanh                                                                                                   |
